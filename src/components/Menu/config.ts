@@ -12,19 +12,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.pancakeswap.finance/#/swap',
+        href: 'https://teckgeekz-exch.netlify.app/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.pancakeswap.finance/#/pool',
+        href: 'https://teckgeekz-exch.netlify.app/#/pool',
       },
       {
         label: 'LP Migration',
-        href: 'https://v1exchange.pancakeswap.finance/#/migrate',
+        href: 'https://teckgeekz-exch.netlify.app/#/migrate',
       },
       {
         label: 'V1 Liquidity (Old)',
-        href: 'https://v1exchange.pancakeswap.finance/#/pool',
+        href: 'https://teckgeekz-exch.netlify.app/#/pool',
       },
     ],
   },
@@ -132,8 +132,8 @@ const config: MenuEntry[] = [
         href: 'https://pancakeswap.medium.com',
       },
       {
-        label: 'Merch',
-        href: 'https://pancakeswap.creator-spring.com/',
+        label: 'Marketing',
+        href: 'https://teckgeekz.com/',
       },
     ],
   },
